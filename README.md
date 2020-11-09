@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
